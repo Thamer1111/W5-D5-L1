@@ -40,7 +40,7 @@ let cv = (
         <li>Code Debugging</li>
         <li>API Integration</li>
         <li>Quality Assurance Controls</li>
-        <li>Web Technologies: AngularJS, jQuery, Bootstrap</li>
+        <li>Web Technologies: AngularJS, jQuery, Bootstrap, React</li>
         <li>Requirements Gathering</li>
         <li>Power BI</li>
         <li>Data Analytics</li>
